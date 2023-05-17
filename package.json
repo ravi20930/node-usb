@@ -1,0 +1,14 @@
+{
+  "name": "node-usb",
+  "version": "1.0.0",
+  "description": "this backend service detects usb devvice and copy data from it when plugged",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "ravi shankar",
+  "license": "ISC",
+  "dependencies": {
+    "usb": "^2.9.0"
+  }
+}
